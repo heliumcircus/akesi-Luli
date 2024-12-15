@@ -1,0 +1,17 @@
+{
+  "title": "Tensoman",
+  "description": "",
+  "artist": "Tatsuki Fujimoto",
+  "author": "kasi Lija",
+  "cover": "https://images2.imgbox.com/4e/95/7c1idBRN_o.png",
+  "chapters": {
+    "120": {
+      "title": "120",
+      "volume": "14",
+      "last_updated": "1734241351",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ji4oB9X"
+      }
+    }
+  }
+}
